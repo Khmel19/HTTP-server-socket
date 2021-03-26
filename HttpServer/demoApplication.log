@@ -1,0 +1,321 @@
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: /test3.html
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-7] INFO  Session  - Input is: /test3.html
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: /test3.html
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: /test3.html
+[Thread-1] INFO  Session  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: /test3.html
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: GET /test3.html HTTP/1.1
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: GET /test3.html HTTP/1.1
+[Thread-7] INFO  Session  - Input is: GET /test3.html HTTP/1.1
+[Thread-11] INFO  Session  - Input is: GET /test3.html HTTP/1.1
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: PUT /test3.html HTTP/1.1
+[Thread-3] INFO  Session  - Request method: PUT
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: PUT /test3.html HTTP/1.1
+[Thread-3] INFO  Session  - Request method: PUT
+[Thread-3] WARN  Session  - Unknown method: PUT
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: PUT /test3.html HTTP/1.1
+[Thread-3] INFO  Session  - Request method: PUT
+[Thread-3] WARN  Session  - Unknown method: PUT
+[Thread-7] INFO  Session  - Input is: PUT /test3.html HTTP/1.1
+[Thread-7] INFO  Session  - Request method: PUT
+[Thread-7] WARN  Session  - Unknown method: PUT
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: PUT /test3.html HTTP/1.1
+[Thread-3] INFO  Session  - Request method: PUT
+[Thread-3] WARN  Session  - Unknown method: PUT
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: POST /test3.html HTTP/1.1
+[Thread-3] INFO  Session  - Request method: POST
+[Thread-3] INFO  Session  - POST request was accepted
+[Thread-3] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: POST /bnr.png HTTP/1.1
+[Thread-7] INFO  Session  - Request method: POST
+[Thread-7] INFO  Session  - POST request was accepted
+[Thread-7] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: POST /bnr.jpg HTTP/1.1
+[Thread-11] INFO  Session  - Request method: POST
+[Thread-11] INFO  Session  - POST request was accepted
+[Thread-11] INFO  Session  - Connection closed
+[Thread-15] INFO  Session  - Input is: GET /bnr.jpg HTTP/1.1
+[Thread-15] INFO  Session  - Request method: GET
+[Thread-15] INFO  Session  - GET request was accepted
+[Thread-15] INFO  Session  - Connection closed
+[Thread-19] INFO  Session  - Input is: GET /bnr.png HTTP/1.1
+[Thread-19] INFO  Session  - Request method: GET
+[Thread-19] INFO  Session  - GET request was accepted
+[Thread-19] INFO  Session  - Connection closed
+[Thread-23] INFO  Session  - Input is: POST /bnr.png HTTP/1.1
+[Thread-23] INFO  Session  - Request method: POST
+[Thread-23] INFO  Session  - POST request was accepted
+[Thread-23] INFO  Session  - Connection closed
+[Thread-27] INFO  Session  - Input is: OPTIONS /bnr.png HTTP/1.1
+[Thread-27] INFO  Session  - Request method: OPTIONS
+[Thread-27] INFO  Session  - OPTIONS request was accepted
+[Thread-27] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: /bnr.png
+[Thread-3] INFO  Session  - Request method: OPTIONS
+[Thread-3] INFO  Session  - OPTIONS request was accepted
+[Thread-3] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: /test2.html
+[Thread-7] INFO  Session  - Request method: POST
+[Thread-7] INFO  Session  - POST request was accepted
+[Thread-7] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: /
+[Thread-11] INFO  Session  - Request method: GET
+[Thread-11] WARN  Session  - NOT FOUND
+[Thread-11] WARN  Session  - File: /not found, load
+[Thread-15] INFO  Session  - Input is: /%D0%B6%D0%BE%D0%BF%D0%B0,%D0%BF%D0%BD%D0%B3
+[Thread-15] INFO  Session  - Request method: GET
+[Thread-15] WARN  Session  - NOT FOUND
+[Thread-15] WARN  Session  - File: /%D0%B6%D0%BE%D0%BF%D0%B0,%D0%BF%D0%BD%D0%B3not found, load
+[Thread-19] INFO  Session  - Input is: /%D0%B6%D0%BE%D0%BF%D0%B0,%D0%BF%D0%BD%D0%B3
+[Thread-19] INFO  Session  - Request method: GET
+[Thread-19] WARN  Session  - NOT FOUND
+[Thread-19] WARN  Session  - File: /%D0%B6%D0%BE%D0%BF%D0%B0,%D0%BF%D0%BD%D0%B3not found, load
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: /%D0%B6%D0%BE%D0%BF%D0%B0,%D0%BF%D0%BD%D0%B3
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] WARN  Session  - NOT FOUND
+[Thread-3] WARN  Session  - File: /%D0%B6%D0%BE%D0%BF%D0%B0,%D0%BF%D0%BD%D0%B3not found, load
+[Thread-3] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: /%D0%B6%D0%BE%D0%BF%D0%B0,%D0%BF%D0%BD%D0%B3
+[Thread-7] INFO  Session  - Request method: POST
+[Thread-7] WARN  Session  - INTERNAL SERVER ERROR
+[Thread-7] WARN  Session  - File: /%D0%B6%D0%BE%D0%BF%D0%B0,%D0%BF%D0%BD%D0%B3not found, load
+[Thread-7] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: /%D0%B6%D0%BE%D0%BF%D0%B0,%D0%BF%D0%BD%D0%B3
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] WARN  Session  - NOT FOUND
+[Thread-3] WARN  Session  - File: /%D0%B6%D0%BE%D0%BF%D0%B0,%D0%BF%D0%BD%D0%B3not found
+[Thread-3] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-1] INFO  Session  - Input is: /
+[Thread-1] INFO  Session  - Request method: GET
+[Thread-1] WARN  Session  - NOT FOUND
+[Thread-1] WARN  Session  - File: /not found
+[Thread-1] INFO  Session  - Connection closed
+[Thread-3] INFO  Session  - Input is: /favicon.ico
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] WARN  Session  - NOT FOUND
+[Thread-3] WARN  Session  - File: /favicon.iconot found
+[Thread-3] INFO  Session  - Connection closed
+[Thread-5] INFO  Session  - Input is: /bnr.jpg
+[Thread-5] INFO  Session  - Request method: GET
+[Thread-5] INFO  Session  - GET request was accepted
+[Thread-5] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: /
+[Thread-7] INFO  Session  - Request method: GET
+[Thread-7] WARN  Session  - NOT FOUND
+[Thread-7] WARN  Session  - File: /not found
+[Thread-7] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: /bnr.jpg
+[Thread-11] INFO  Session  - Request method: GET
+[Thread-11] INFO  Session  - GET request was accepted
+[Thread-11] INFO  Session  - Connection closed
+[Thread-13] INFO  Session  - Input is: /bnr.png
+[Thread-13] INFO  Session  - Request method: GET
+[Thread-13] INFO  Session  - GET request was accepted
+[Thread-13] INFO  Session  - Connection closed
+[Thread-15] INFO  Session  - Input is: /test2.html
+[Thread-15] INFO  Session  - Request method: GET
+[Thread-15] WARN  Session  - NOT FOUND
+[Thread-15] WARN  Session  - File: /test2.htmlnot found
+[Thread-15] INFO  Session  - Connection closed
+[Thread-17] INFO  Session  - Input is: /test3.html
+[Thread-17] INFO  Session  - Request method: GET
+[Thread-17] INFO  Session  - GET request was accepted
+[Thread-17] INFO  Session  - Connection closed
+[Thread-21] INFO  Session  - Input is: /bnr.jpg
+[Thread-21] INFO  Session  - Request method: GET
+[Thread-21] INFO  Session  - GET request was accepted
+[Thread-21] INFO  Session  - Connection closed
+[Thread-23] INFO  Session  - Input is: /bnr.png
+[Thread-23] INFO  Session  - Request method: GET
+[Thread-23] INFO  Session  - GET request was accepted
+[Thread-23] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[main] INFO  HttpServer  - Server started. Listening for connections on port :9999
+[Thread-1] INFO  Session  - Input is: /
+[Thread-1] INFO  Session  - Request method: GET
+[Thread-1] WARN  Session  - NOT FOUND
+[Thread-1] WARN  Session  - File: /not found
+[Thread-1] INFO  Session  - Connection closed
+[Thread-3] INFO  Session  - Input is: /favicon.ico
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] WARN  Session  - NOT FOUND
+[Thread-3] WARN  Session  - File: /favicon.iconot found
+[Thread-3] INFO  Session  - Connection closed
+[Thread-5] INFO  Session  - Input is: /bnr.jpg
+[Thread-5] INFO  Session  - Request method: GET
+[Thread-5] INFO  Session  - GET request was accepted
+[Thread-5] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: /bnr.png
+[Thread-7] INFO  Session  - Request method: GET
+[Thread-7] INFO  Session  - GET request was accepted
+[Thread-7] INFO  Session  - Connection closed
+[Thread-9] INFO  Session  - Input is: /test1.html
+[Thread-9] INFO  Session  - Request method: GET
+[Thread-9] WARN  Session  - NOT FOUND
+[Thread-9] WARN  Session  - File: /test1.htmlnot found
+[Thread-9] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: /test3.html
+[Thread-11] INFO  Session  - Request method: GET
+[Thread-11] INFO  Session  - GET request was accepted
+[Thread-11] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :9999
+[Thread-3] INFO  Session  - Input is: /
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] WARN  Session  - NOT FOUND
+[Thread-3] WARN  Session  - File: /not found
+[Thread-3] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: /
+[Thread-7] INFO  Session  - Request method: POST
+[Thread-7] WARN  Session  - INTERNAL SERVER ERROR
+[Thread-7] WARN  Session  - File: /not found
+[Thread-7] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: /bnr.png
+[Thread-11] INFO  Session  - Request method: GET
+[Thread-11] INFO  Session  - GET request was accepted
+[Thread-11] INFO  Session  - Connection closed
+[Thread-15] INFO  Session  - Input is: /bnr.png
+[Thread-15] INFO  Session  - Request method: POST
+[Thread-15] INFO  Session  - POST request was accepted
+[Thread-15] INFO  Session  - Connection closed
+[Thread-19] INFO  Session  - Input is: /bnr.png
+[Thread-19] INFO  Session  - Request method: GET
+[Thread-19] INFO  Session  - GET request was accepted
+[Thread-19] INFO  Session  - Connection closed
+[Thread-23] INFO  Session  - Input is: /bnr.jpg
+[Thread-23] INFO  Session  - Request method: GET
+[Thread-23] INFO  Session  - GET request was accepted
+[Thread-23] INFO  Session  - Connection closed
+[Thread-27] INFO  Session  - Input is: /bnr.jpg
+[Thread-27] INFO  Session  - Request method: OPTIONS
+[Thread-27] INFO  Session  - OPTIONS request was accepted
+[Thread-27] INFO  Session  - Connection closed
+[Thread-31] INFO  Session  - Input is: /bnr.jpg
+[Thread-31] INFO  Session  - Request method: PATCH
+[Thread-31] WARN  Session  - Unknown method: PATCH
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: /bnr.jpg
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] INFO  Session  - GET request was accepted
+[Thread-3] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: /bnr.jpg
+[Thread-7] INFO  Session  - Request method: POST
+[Thread-7] INFO  Session  - POST request was accepted
+[Thread-7] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: /bnr.jpg
+[Thread-11] INFO  Session  - Request method: OPTIONS
+[Thread-11] INFO  Session  - OPTIONS request was accepted
+[Thread-11] INFO  Session  - Connection closed
+[Thread-15] INFO  Session  - Input is: /bnr.jpg
+[Thread-15] INFO  Session  - Request method: POST
+[Thread-15] INFO  Session  - POST request was accepted
+[Thread-15] INFO  Session  - Connection closed
+[Thread-17] INFO  Session  - Input is: /
+[Thread-17] INFO  Session  - Request method: GET
+[Thread-17] WARN  Session  - NOT FOUND
+[Thread-17] WARN  Session  - File: /not found
+[Thread-17] INFO  Session  - Connection closed
+[Thread-19] INFO  Session  - Input is: /HNAP1/
+[Thread-19] INFO  Session  - Request method: GET
+[Thread-19] WARN  Session  - NOT FOUND
+[Thread-19] WARN  Session  - File: /HNAP1/not found
+[Thread-19] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: /bnr.jpg
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] INFO  Session  - GET request was accepted
+[Thread-3] INFO  Session  - Connection closed
+[Thread-5] INFO  Session  - Input is: /favicon.ico
+[Thread-5] INFO  Session  - Request method: GET
+[Thread-5] WARN  Session  - NOT FOUND
+[Thread-5] WARN  Session  - File: /favicon.iconot found
+[Thread-5] INFO  Session  - Connection closed
+[Thread-13] INFO  Session  - Input is: /bnr.jpg
+[Thread-13] INFO  Session  - Request method: GET
+[Thread-13] WARN  Session  - NOT FOUND
+[Thread-13] WARN  Session  - File: /bnr.jpgnot found
+[Thread-13] INFO  Session  - Connection closed
+[Thread-17] INFO  Session  - Input is: /bnr.png
+[Thread-17] INFO  Session  - Request method: GET
+[Thread-17] WARN  Session  - NOT FOUND
+[Thread-17] WARN  Session  - File: /bnr.pngnot found
+[Thread-17] INFO  Session  - Connection closed
+[Thread-21] INFO  Session  - Input is: /
+[Thread-21] INFO  Session  - Request method: GET
+[Thread-21] WARN  Session  - NOT FOUND
+[Thread-21] WARN  Session  - File: /not found
+[Thread-21] INFO  Session  - Connection closed
+[Thread-25] INFO  Session  - Input is: /bnr.jpg
+[Thread-25] INFO  Session  - Request method: GET
+[Thread-25] WARN  Session  - NOT FOUND
+[Thread-25] WARN  Session  - File: /bnr.jpgnot found
+[Thread-25] INFO  Session  - Connection closed
+[Thread-29] INFO  Session  - Input is: /test3.html
+[Thread-29] INFO  Session  - Request method: GET
+[Thread-29] WARN  Session  - NOT FOUND
+[Thread-29] WARN  Session  - File: /test3.htmlnot found
+[Thread-29] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: /test3.html
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] WARN  Session  - NOT FOUND
+[Thread-3] WARN  Session  - File: /test3.htmlnot found
+[Thread-3] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: /bnr.png
+[Thread-7] INFO  Session  - Request method: GET
+[Thread-7] WARN  Session  - NOT FOUND
+[Thread-7] WARN  Session  - File: /bnr.pngnot found
+[Thread-7] INFO  Session  - Connection closed
+[main] INFO  HttpServer  - Server started. Listening for connections on port :8080
+[Thread-3] INFO  Session  - Input is: /bnr.png
+[Thread-3] INFO  Session  - Request method: GET
+[Thread-3] INFO  Session  - GET request was accepted
+[Thread-3] INFO  Session  - Connection closed
+[Thread-7] INFO  Session  - Input is: /bnr.jpg
+[Thread-7] INFO  Session  - Request method: GET
+[Thread-7] INFO  Session  - GET request was accepted
+[Thread-7] INFO  Session  - Connection closed
+[Thread-11] INFO  Session  - Input is: /bnr.jpg
+[Thread-11] INFO  Session  - Request method: POST
+[Thread-11] INFO  Session  - POST request was accepted
+[Thread-11] INFO  Session  - Connection closed
+[Thread-15] INFO  Session  - Input is: /test3.html
+[Thread-15] INFO  Session  - Request method: POST
+[Thread-15] INFO  Session  - POST request was accepted
+[Thread-15] INFO  Session  - Connection closed
+[Thread-19] INFO  Session  - Input is: /test3.html
+[Thread-19] INFO  Session  - Request method: GET
+[Thread-19] INFO  Session  - GET request was accepted
+[Thread-19] INFO  Session  - Connection closed
+[Thread-23] INFO  Session  - Input is: /test3.html
+[Thread-23] INFO  Session  - Request method: OPTIONS
+[Thread-23] INFO  Session  - OPTIONS request was accepted
+[Thread-23] INFO  Session  - Connection closed
+[Thread-27] INFO  Session  - Input is: /test3.html
+[Thread-27] INFO  Session  - Request method: PATCH
+[Thread-27] WARN  Session  - Unknown method: PATCH
